@@ -8,9 +8,9 @@
       "burnable": true
     },
     {
-      "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
-      "name": "BUSD",
-      "startBlock": 5336370,
+      "address": "0xbDa99C8695986B45a0dD3979cC6f3974D9753D30",
+      "name": "LOOT",
+      "startBlock": 13600000,
       "mintable": true,
       "burnable": true
     },
@@ -22,9 +22,9 @@
       "burnable": true
     },
     {
-      "address": "0x78f3092515647B8550Bd374c9894C2dB64829d34",
+      "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
       "name": "Freyala",
-      "startBlock": 10779336,
+      "startBlock": 13668520,
       "mintable": false,
       "burnable": true
     }
